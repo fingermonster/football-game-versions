@@ -1,9 +1,12 @@
 {
   "_comment": "Not automated, update these on a significant release",
+  "website-build": 459,
   "website-major": 2,
   "website-minor": 4,
+  "backend-system-build": 103,
   "backend-system-major": 0,
   "backend-system-minor": 1,
+  "match-engine-build": 902
   "match-engine-major": 0,
   "match-engine-minor": 1
 }
