@@ -1,8 +1,8 @@
 {
   "_comment": "Automated via yml scripts in each project.",
   "website-build": 464,
-  "website-major": 4,
-  "website-minor": 6,
+  "website-major": 0,
+  "website-minor": 1,
   "backend-system-build": 103,
   "backend-system-major": 0,
   "backend-system-minor": 1,
